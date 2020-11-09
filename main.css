@@ -5,7 +5,7 @@ padding: 0;
 overflow: hidden;
 height: calc(100%);
 width: 100vw;
-background-image: url("imageskkk/1.jpg");
+background-image: url("images/1.jpg");
 background-size: cover;
 background-position: bottom;
 font-family: 'Sen', sans-serif;
@@ -33,7 +33,7 @@ header .logo
     padding-left: 10px;
     width: 200px;
     height: 50px;
-    background-image: url("imageskkk/dejavu.png");
+    background-image: url("images/dejavu.png");
     background-size: cover;
     background-position: center;
 }
